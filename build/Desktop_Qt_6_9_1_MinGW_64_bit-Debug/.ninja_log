@@ -1,0 +1,24 @@
+# ninja log v5
+3132	7811	7780086238216879	CMakeFiles/AudioPlayer.dir/ffmpeg_utils.cpp.obj	e007fdb0a5d2700d
+16	454	7780087663680209	AudioPlayer_autogen/timestamp	c53695ded7dc7088
+3115	11186	7780086271980999	CMakeFiles/AudioPlayer.dir/AudioPlayer_autogen/mocs_compilation.cpp.obj	33caca939c2ef8d1
+16	454	7780087663680209	AudioPlayer_autogen/mocs_compilation.cpp	c53695ded7dc7088
+16	454	7780087663680209	D:/QT/project/AudioPlayer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AudioPlayer_autogen/timestamp	c53695ded7dc7088
+16	454	7780087663680209	D:/QT/project/AudioPlayer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AudioPlayer_autogen/mocs_compilation.cpp	c53695ded7dc7088
+3148	10887	7780086269001688	CMakeFiles/AudioPlayer.dir/main.cpp.obj	c8db098b22868a42
+461	9806	7780087763021723	CMakeFiles/AudioPlayer.dir/mainwindow.cpp.obj	7adeb03c793a1bf2
+2	1129	7780100036714302	build.ninja	c413fcd1d0b18d76
+9806	12054	7780087785521901	AudioPlayer.exe	f2f7cd46710fa693
+1411	1591	7779009203618111	AudioPlayer_autogen/EWIEGA46WW/qrc_res.cpp	79f407a6c67735a4
+1411	1591	7779009203618111	D:/QT/project/AudioPlayer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AudioPlayer_autogen/EWIEGA46WW/qrc_res.cpp	79f407a6c67735a4
+1674	3114	7779009218892184	CMakeFiles/AudioPlayer.dir/AudioPlayer_autogen/EWIEGA46WW/qrc_res.cpp.obj	3d5820b6c8276481
+11	439	7780100018114631	AudioPlayer_autogen/timestamp	c53695ded7dc7088
+11	439	7780100018114631	AudioPlayer_autogen/mocs_compilation.cpp	c53695ded7dc7088
+11	439	7780100018114631	D:/QT/project/AudioPlayer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AudioPlayer_autogen/timestamp	c53695ded7dc7088
+11	439	7780100018114631	D:/QT/project/AudioPlayer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AudioPlayer_autogen/mocs_compilation.cpp	c53695ded7dc7088
+446	581	7780100100412569	AudioPlayer_autogen/EWIEGA46WW/qrc_res.cpp	79f407a6c67735a4
+446	581	7780100100412569	D:/QT/project/AudioPlayer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AudioPlayer_autogen/EWIEGA46WW/qrc_res.cpp	79f407a6c67735a4
+595	938	7780100104018030	CMakeFiles/AudioPlayer.dir/AudioPlayer_autogen/EWIEGA46WW/qrc_res.cpp.obj	3d5820b6c8276481
+608	1139	7780100106050506	CMakeFiles/AudioPlayer.dir/logo.rc.obj	33bad578eb1fcafa
+582	8252	7780100177064299	CMakeFiles/AudioPlayer.dir/mainwindow.cpp.obj	7adeb03c793a1bf2
+8252	10340	7780100197912369	AudioPlayer.exe	3eddd55c6f9a652d

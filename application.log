@@ -1,0 +1,3 @@
+[2025-08-13 16:52:43] [WARNING] QMetaObject::connectSlotsByName: No matching signal for on_btnclose_clicked() (:0, )
+[2025-08-13 16:52:43] [WARNING] QMetaObject::connectSlotsByName: No matching signal for on_cursor_PositionChanged() (:0, )
+[2025-08-13 16:52:43] [DEBUG] QHash((MyTextEdit(0x20a4af74890, name="text_Input"), "D:/QT/project/AudioPlayer/CMakeLists.txt")) (:0, )
